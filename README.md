@@ -19,7 +19,7 @@
 
 - **Softwares and Tools**:
 
-      [![My Skills](https://skillicons.dev/icons?i=aws,docker,elasticsearch,grafana,kubernetes,postman,redis,sentry,&theme=light&perline=4)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=aws,docker,elasticsearch,grafana,kubernetes,postman,redis,sentry,&theme=light&perline=4)](https://skillicons.dev)
 
   <br>
 </p>
